@@ -13,6 +13,4 @@ a:hover {outline:0;}
 a:focus {outline:0;}
 table {border-collapse:collapse;}
 header,main,section,footer,nav {display:block;}
-
-
-
+::selection {background-color: #bd9d6d;color: #fff;}
