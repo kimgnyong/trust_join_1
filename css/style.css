@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+#wrap {width:100%;}
+#wrap .wrap {width:100%;max-width: 1100px;padding: 0 15px;margin: 0 auto;}
+#wrap .wrap .gap {width:auto;}
+#wrap .wrap .gap .content {width:100%; text-align: center;}
+#wrap .wrap .gap .content p {display: block;}
